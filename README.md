@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhipawar02
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Mern Stack
-- 💞️ I’m looking to collaborate on front-end projects
+- 👀 I’m interested in Machine Learning and Data Science
+- 🌱 I’m currently learning Generative AI and Deep learning Techniques.
+- 💞️ I’m looking to collaborate on Ml-oriented Projects
 - 📫 You can email me at - abhishek.pawar@mitaoe.ac.in
 
 <!---
